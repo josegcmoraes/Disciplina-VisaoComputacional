@@ -1,9 +1,6 @@
 # Disciplina-VisaoComputacional
 Atividades desenvolvidas durante a disciplina de Visão Computacional
 
-# DisciplinaProgramacaoMultiobjetivo
-Atividades desenvolvidas durante a disciplina de Programação Multiobjetivo
-
 ### Linguagens utilizadas 
 * Python
 ### Para executar o código deve utilizar 
