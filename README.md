@@ -8,7 +8,7 @@ Atividades desenvolvidas durante a disciplina de Visão Computacional
 * instalar eclipse anaconda
 
 ### Descrição
-* utilização da biblioteca numpy, scipy, sklearn, 
+* utilização da biblioteca numpy, scipy, sklearn, entre outras.
 * treinamento e teste de conjunto de dados utilizando classificadores
 
 ### Exemplo de execução
